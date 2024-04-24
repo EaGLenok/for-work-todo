@@ -1,0 +1,8 @@
+.todo_list_items {
+  width: 550px;
+  max-height: 450px;
+  overflow-y: auto;
+  overflow-x: none;
+  display: flex;
+  flex-direction: column;
+}
